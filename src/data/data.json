@@ -2,11 +2,11 @@
   "pizza": [
     {
       "id": 1,
-      "nome": "Pizza 1",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
+      "nome": "Pizza",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat mi quis malesuada mattis. Suspendisse a sapien quis dui consequat.",
       "preco": "70 Reais",
       "tempo": "40 Minutos",
-      "img": "https://tpaempreendimentos.com.br/blog/wp-content/uploads/2019/02/shutterstock-84904912-1024x683.jpg",
+      "img": "burst.shopifycdn.com/photos/classic-pizza-with-peppers-and-parmesian.jpg",
       "categoria": "Pizzas",
       "subSecao": "Salgadas"
     },
@@ -306,7 +306,7 @@
   ],
   "saladas": [
     {
-      "id": 13,
+      "id": 34,
       "nome": "Salada 1",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
       "preco": "50 Reais",
@@ -314,7 +314,7 @@
       "img": "https://claudia.abril.com.br/wp-content/uploads/2020/01/salada1-1.jpg"
     },
     {
-      "id": 14,
+      "id": 35,
       "nome": "Salada   2",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
       "preco": "60 Reais",
@@ -322,7 +322,7 @@
       "img": "https://claudia.abril.com.br/wp-content/uploads/2020/01/salada1-1.jpg"
     },
     {
-      "id": 15,
+      "id": 36,
       "nome": "Salada  3",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
       "preco": "80 Reais",
