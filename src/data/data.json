@@ -31,7 +31,27 @@
       "subSecao": "Salgadas"
     },
     {
-      "id": 2,
+      "id": 4,
+      "nome": "Pizza Floresta Negra",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
+      "preco": "60 Reais",
+      "tempo": "40 Minutos",
+      "img": "https://cdn.pixabay.com/photo/2017/07/27/20/49/pizza-2546712_960_720.jpg",
+      "categoria": "Pizzas",
+      "subSecao": "Doces"
+    },
+    {
+      "id": 5,
+      "nome": "Pizza Morango Chocolate",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
+      "preco": "70 Reais",
+      "tempo": "40 Minutos",
+      "img": "https://cdn.pixabay.com/photo/2020/01/04/18/10/pizza-4741311_960_720.jpg",
+      "categoria": "Pizzas",
+      "subSecao": "Doces"
+    },
+    {
+      "id": 6,
       "nome": "Pizza 2",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
       "preco": "80 Reais",
@@ -39,16 +59,6 @@
       "img": "https://tpaempreendimentos.com.br/blog/wp-content/uploads/2019/02/shutterstock-84904912-1024x683.jpg",
       "categoria": "Pizzas",
       "subSecao": "Doces"
-    },
-    {
-      "id": 3,
-      "nome": "Pizza 3",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
-      "preco": "90 Reais",
-      "tempo": "45 Minutos",
-      "img": "https://tpaempreendimentos.com.br/blog/wp-content/uploads/2019/02/shutterstock-84904912-1024x683.jpg",
-      "categoria": "Pizzas",
-      "subSecao": "Mistas"
     }
   ],
   "bebidas": [
