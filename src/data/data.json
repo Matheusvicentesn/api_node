@@ -2,11 +2,31 @@
   "pizza": [
     {
       "id": 1,
-      "nome": "Pizza",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat mi quis malesuada mattis. Suspendisse a sapien quis dui consequat.",
+      "nome": "Pizza Mussarela",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id leo sed nisi placerat laoreet. Ut posuere egestas fringilla. Sed et fermentum ex. Etiam quis congue neque, facilisis maximus tellus. Suspendisse a faucibus lorem. Etiam dignissim dui non libero pulvinar.",
       "preco": "70 Reais",
       "tempo": "40 Minutos",
-      "img": "burst.shopifycdn.com/photos/classic-pizza-with-peppers-and-parmesian.jpg",
+      "img": "https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_960_720.jpg",
+      "categoria": "Pizzas",
+      "subSecao": "Salgadas"
+    },
+    {
+      "id": 2,
+      "nome": "Pizza Calabresa",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id leo sed nisi placerat laoreet. Ut posuere egestas fringilla. Sed et fermentum ex. Etiam quis congue neque, facilisis maximus tellus. Suspendisse a faucibus lorem. Etiam dignissim dui non libero pulvinar.",
+      "preco": "75 Reais",
+      "tempo": "40 Minutos",
+      "img": "https://cdn.pixabay.com/photo/2018/02/22/11/49/pizza-3172844_960_720.jpg",
+      "categoria": "Pizzas",
+      "subSecao": "Salgadas"
+    },
+    {
+      "id": 3,
+      "nome": "Pizza Frango Catupiry",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id leo sed nisi placerat laoreet. Ut posuere egestas fringilla. Sed et fermentum ex. Etiam quis congue neque, facilisis maximus tellus. Suspendisse a faucibus lorem. Etiam dignissim dui non libero pulvinar.",
+      "preco": "80 Reais",
+      "tempo": "40 Minutos",
+      "img": "https://cdn.pixabay.com/photo/2021/04/06/14/38/pizza-6156566_960_720.jpg",
       "categoria": "Pizzas",
       "subSecao": "Salgadas"
     },
