@@ -52,11 +52,11 @@
     },
     {
       "id": 6,
-      "nome": "Pizza 2",
+      "nome": "Pizza Chocolate e Morango",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris.",
       "preco": "80 Reais",
       "tempo": "40 Minutos",
-      "img": "https://tpaempreendimentos.com.br/blog/wp-content/uploads/2019/02/shutterstock-84904912-1024x683.jpg",
+      "img": "https://cdn.pixabay.com/photo/2020/01/04/18/10/pizza-4741312_960_720.jpg",
       "categoria": "Pizzas",
       "subSecao": "Doces"
     }
